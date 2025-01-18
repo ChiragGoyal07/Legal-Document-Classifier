@@ -1,4 +1,4 @@
-# Legal Text Classification for Document Categorization in Law
+# Legal Text Classification for Document Categorization 
 
 
 The Legal Text Classification System is an advanced natural language processing (NLP) solution designed to automate the categorization of legal documents. Leveraging state-of-the-art deep learning techniques, the system streamlines document management and analysis processes in legal domains, offering improved efficiency and accuracy. This project is a collaborative effort by Sowjanya Linga and Vamshi Thatikonda, pursuing their Master's degrees in Data Science at the University of New Haven.
